@@ -11,6 +11,7 @@ You will need a 64-bit OS for running this on, since node-opus does not support 
 # Finding the channel ids
 Finding the text channel ID is fairly easy, just use the last number in the URL.
 `https://discordapp.com/channels/93925271886897152/93925271886897152` becomes `93925271886897152`
+
 To find the audio channel, right click the channel you want to add the bot to, and click inspect.
 ![see above](http://meharryp.xyz/sharex/2016/01/04/2016-01-04_12-29-56.png)
 
