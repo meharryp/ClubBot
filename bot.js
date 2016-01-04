@@ -31,7 +31,6 @@ function PlayYoutube( url ){
 	} );
 	setTimeout( function(){
 		clubPlaying = true;
-		var startTime = Date.now();
 		var lastDat = Date.now();
 		var datTime = Date.now();
 		var name;
