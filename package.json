@@ -1,0 +1,11 @@
+{
+	"name": 		"ClubBot",
+	"version": 		"0.1",
+	"description":	"An audio bot for Discord.",
+	"main":			"bot.js",
+	"dependencies": {
+		"discord.io": 		"latest",
+		"node-opus": 		"latest",
+		"youtube-to-mp3": 	"latest"
+	}
+}
