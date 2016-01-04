@@ -1,6 +1,6 @@
 {
 	"name": 		"ClubBot",
-	"version": 		"0.1",
+	"version": 		"0.1.0",
 	"description":	"An audio bot for Discord.",
 	"main":			"bot.js",
 	"dependencies": {
