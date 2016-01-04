@@ -142,7 +142,7 @@ setTimeout( function(){
 				clubQueue.push( vid );
 				console.log( clubQueue );
 				clubbot.sendMessage( { 
-					to: chanid,
+					to: tChannel,
 					message: "Song requested! The current queue length is " + ( clubQueue.length - clubLen ) + "."
 				} );
 			} else {
