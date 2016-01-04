@@ -7,6 +7,7 @@ You will need a 64-bit OS for running this on, since node-opus does not support 
 2. Run `npm install` in the directory the bot is in
 3. Open bot.js and fill in the username and password for the bot
 4. Run it!
+
 # Finding the channel ids
 Finding the text channel ID is fairly easy, just use the last number in the URL.
 `https://discordapp.com/channels/93925271886897152/93925271886897152` becomes `93925271886897152`
