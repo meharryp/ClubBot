@@ -1,5 +1,7 @@
 # ClubBot
 A bot for playing youtube, soundcloud and more on Discord voice chat channels.
+# Note
+You will need a 64-bit OS for running this on, since node-opus does not support 32-bit operating systems.
 # Installing
 1. Install nodejs and npm.
 2. Run `npm install` in the directory the bot is in
@@ -16,3 +18,5 @@ Then, from the highlighted section, copy the text after the $ and before the dot
 <span class="channel-name" data-reactid=".0.1.1.0.1.0.1.0.0.3.$127861585304616960.0.1">The Men's Room (AFK)</span>
 ```
 becomes `127861585304616960`.
+# Troubleshooting
+If you get an error related to ffmpeg, make sure it is installed (https://www.ffmpeg.org/) and added to your PATH.
