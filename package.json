@@ -6,6 +6,6 @@
 	"dependencies": {
 		"discord.io": 		"latest",
 		"node-opus": 		"latest",
-		"youtube-to-mp3": 	"latest"
+		"youtube-dl": 	"latest"
 	}
 }
