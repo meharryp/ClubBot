@@ -1,5 +1,5 @@
 # ClubBot
-A bot that plays music on discord.
+A bot for playing youtube, soundcloud and more on Discord voice chat channels.
 # Installing
 1. Install nodejs and npm.
 2. Run `npm install` in the directory the bot is in
