@@ -10,6 +10,7 @@ Finding the text channel ID is fairly easy, just use the last number in the URL.
 `https://discordapp.com/channels/93925271886897152/93925271886897152` becomes `93925271886897152`
 To find the audio channel, right click the channel you want to add the bot to, and click inspect.
 ![see above](http://meharryp.xyz/sharex/2016/01/04/2016-01-04_12-29-56.png)
+
 Then, from the highlighted section, copy the text after the $ and before the dot.
 ```html
 <span class="channel-name" data-reactid=".0.1.1.0.1.0.1.0.0.3.$127861585304616960.0.1">The Men's Room (AFK)</span>
